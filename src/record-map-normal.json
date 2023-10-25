@@ -1,0 +1,4466 @@
+{
+  "block": {
+      "adcccad0-3128-4a60-97b6-c1cb75535e82": {
+          "value": {
+              "id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "version": 58,
+              "type": "page",
+              "properties": {
+                  "title": [
+                      [
+                          "Chanaka Resume"
+                      ]
+                  ]
+              },
+              "content": [
+                  "2d554a24-0fa7-49d9-b9a9-2f7356dd06ef",
+                  "b70b2a95-6f55-4cf2-a5b8-d287afae98a2",
+                  "1c0e3aeb-79f8-46ee-87ed-863700eb4d5a",
+                  "d3fb0b73-feb4-49cf-9ab4-58d177b6c802",
+                  "f7bd6b79-a29a-4f65-956f-a510d699c4d8",
+                  "cba10bc6-4e5f-467e-a18e-e50f11edfba5",
+                  "0e156153-6e91-4e55-97d4-2d651118dc77",
+                  "01e667ec-0668-4d61-a2e7-f60d7135e5e3",
+                  "93184afa-c7f9-4b1b-aa6a-2905deed0147",
+                  "3bfb7151-a6fb-432c-9c20-f4d0d8db7f91",
+                  "07dc0121-4551-4f4f-bdf3-6bf17f363203",
+                  "4593611c-a947-4fb3-9250-02ba6402cfa3",
+                  "39c9f44e-76f5-4e06-bfcd-95eb1b297004",
+                  "f2cd2f7c-e59a-4471-a5ed-e991a0b45a23",
+                  "2aa3c38d-6b2e-45ba-befc-f65eb7f8b083",
+                  "42631280-a1f5-441f-9f47-4da598fb5741",
+                  "db9f4f6e-6239-4c42-b702-ad56523930a6",
+                  "6cc03681-2429-4c37-b468-7821457a9354",
+                  "8899af3b-489d-4877-b738-18bd5f5e17f1",
+                  "09bb1571-67a2-4b54-9c43-970c46063af2",
+                  "f9a18311-f043-47d7-a29f-476bd04693f1",
+                  "85d0dc87-4977-4728-88b5-5b29651f0f3a",
+                  "d6f94603-ffa1-40ce-9dbd-0db3d77be564",
+                  "f3c64e47-98e5-4145-80c6-16e98528160a",
+                  "6b79cb50-6161-4dee-9c95-2ad9f000ef23",
+                  "f23641f4-4f16-4232-b319-1aa49e4c6d95",
+                  "a0f98ba5-71ac-4ef2-bf8f-945459913cf8",
+                  "2fbdd6c5-bd8d-4c15-a74a-163b7e8a9a7f",
+                  "12bdd8eb-e7ac-470b-a913-98004501072a",
+                  "fc04a76e-1ae4-41e0-ba01-c6830bc9a0a6",
+                  "9799a652-d332-4db7-880d-aec12ab2b32d",
+                  "acf25301-84ba-4619-b338-41c1d96d5a4e",
+                  "b34a8db4-5219-408b-a834-f6c50be67f9b",
+                  "ace57932-5fc7-47b2-9864-3fc1f6affb13",
+                  "ed857d1a-c887-4b05-982b-ba2aeccde345",
+                  "5afd5b8b-9194-4271-8586-a0cb1bbfb323",
+                  "5eee824e-bc10-4bb0-b760-201e1a46b23c",
+                  "6ac4be55-896a-4e9d-86df-39758c184dc5",
+                  "61ddd0b6-108d-489a-8740-08bf68257da5",
+                  "0db4ade8-a510-4017-9d7e-c22eed65723e"
+              ],
+              "format": {
+                  "page_icon": "https://prod-files-secure.s3.us-west-2.amazonaws.com/97a5874d-9b21-4b11-ac34-7ea1453011c5/1a5f996b-7a00-4e7d-b10f-841fd75cb9b3/Group_10_(1).png",
+                  "page_cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/97a5874d-9b21-4b11-ac34-7ea1453011c5/1e84810f-007f-4e47-a7f5-65a2eaaa378e/Cover__Boxes_and_circles.png",
+                  "block_locked": false,
+                  "block_locked_by": "d71ad270-2f1b-468b-8d5b-39c365f719fc",
+                  "page_full_width": false,
+                  "page_small_text": true,
+                  "copied_from_pointer": {
+                      "id": "b7bc333f-2694-4f3f-80a5-0f6da4d9973a",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  },
+                  "page_cover_position": 0.3816
+              },
+              "permissions": [
+                  {
+                      "role": "editor",
+                      "type": "user_permission",
+                      "user_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b"
+                  },
+                  {
+                      "role": "reader",
+                      "type": "public_permission",
+                      "added_timestamp": 1696708620136,
+                      "allow_duplicate": false
+                  }
+              ],
+              "created_time": 1696708497390,
+              "last_edited_time": 1696780658567,
+              "parent_id": "1148013c-f55d-4f92-bb92-637439389e9b",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "b7bc333f-2694-4f3f-80a5-0f6da4d9973a",
+              "file_ids": [
+                  "1e84810f-007f-4e47-a7f5-65a2eaaa378e",
+                  "1a5f996b-7a00-4e7d-b10f-841fd75cb9b3"
+              ],
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "2d554a24-0fa7-49d9-b9a9-2f7356dd06ef": {
+          "value": {
+              "id": "2d554a24-0fa7-49d9-b9a9-2f7356dd06ef",
+              "version": 1,
+              "type": "callout",
+              "properties": {
+                  "title": [
+                      [
+                          "UI/UX Designer | Fresh Graduate | Lifelong Learner | Enterprise Design Thinking Co-Creator",
+                          [
+                              [
+                                  "i"
+                              ]
+                          ]
+                      ]
+                  ]
+              },
+              "format": {
+                  "page_icon": "🧑🏻‍🎨",
+                  "block_color": "gray_background",
+                  "copied_from_pointer": {
+                      "id": "62ece0b5-01dd-48bf-b0a0-0822d4a9e7b9",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497382,
+              "last_edited_time": 1696708497382,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "62ece0b5-01dd-48bf-b0a0-0822d4a9e7b9",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "b70b2a95-6f55-4cf2-a5b8-d287afae98a2": {
+          "value": {
+              "id": "b70b2a95-6f55-4cf2-a5b8-d287afae98a2",
+              "version": 1,
+              "type": "divider",
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "47bf710b-1974-45cb-8acb-4ab5bea6c881",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497381,
+              "last_edited_time": 1696708497381,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "47bf710b-1974-45cb-8acb-4ab5bea6c881",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "1c0e3aeb-79f8-46ee-87ed-863700eb4d5a": {
+          "value": {
+              "id": "1c0e3aeb-79f8-46ee-87ed-863700eb4d5a",
+              "version": 1,
+              "type": "header",
+              "properties": {
+                  "title": [
+                      [
+                          "👋 About Me"
+                      ]
+                  ]
+              },
+              "format": {
+                  "block_color": "default",
+                  "copied_from_pointer": {
+                      "id": "47f33e00-83c7-4bc6-b168-c4192712b402",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497382,
+              "last_edited_time": 1696708497382,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "47f33e00-83c7-4bc6-b168-c4192712b402",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "d3fb0b73-feb4-49cf-9ab4-58d177b6c802": {
+          "value": {
+              "id": "d3fb0b73-feb4-49cf-9ab4-58d177b6c802",
+              "version": 1,
+              "type": "sub_header",
+              "properties": {
+                  "title": [
+                      [
+                          "Creative UI/UX Designer with a Passion for Learning",
+                          [
+                              [
+                                  "b"
+                              ]
+                          ]
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "d5a99826-4c6b-44b1-bce7-ea969ef74897",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497383,
+              "last_edited_time": 1696708497383,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "d5a99826-4c6b-44b1-bce7-ea969ef74897",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "f7bd6b79-a29a-4f65-956f-a510d699c4d8": {
+          "value": {
+              "id": "f7bd6b79-a29a-4f65-956f-a510d699c4d8",
+              "version": 1,
+              "type": "column_list",
+              "content": [
+                  "c277d5df-bfad-4341-b8f6-c1d1dce50974",
+                  "76e0b172-1d72-423a-b22c-5efaa98fe228"
+              ],
+              "format": {
+                  "block_width": 720,
+                  "block_full_width": false,
+                  "block_page_width": true,
+                  "copied_from_pointer": {
+                      "id": "65a1357d-8967-4c02-8d2c-1c3f352b077d",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497382,
+              "last_edited_time": 1696708497382,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "65a1357d-8967-4c02-8d2c-1c3f352b077d",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "c277d5df-bfad-4341-b8f6-c1d1dce50974": {
+          "value": {
+              "id": "c277d5df-bfad-4341-b8f6-c1d1dce50974",
+              "version": 3,
+              "type": "column",
+              "content": [
+                  "ea618b7c-94e1-4259-add4-e63327c9b499",
+                  "6adf9fb8-a2d6-43a3-9ca6-40944c669cf0",
+                  "aa922dc7-dbb5-405c-a881-ea01054a08ff"
+              ],
+              "format": {
+                  "column_ratio": 0.375,
+                  "copied_from_pointer": {
+                      "id": "0119a914-7d90-4753-808e-ba4ea638398e",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497383,
+              "last_edited_time": 1696708563627,
+              "parent_id": "f7bd6b79-a29a-4f65-956f-a510d699c4d8",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "0119a914-7d90-4753-808e-ba4ea638398e",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "76e0b172-1d72-423a-b22c-5efaa98fe228": {
+          "value": {
+              "id": "76e0b172-1d72-423a-b22c-5efaa98fe228",
+              "version": 5,
+              "type": "column",
+              "content": [
+                  "4a98eb0a-afee-441e-8e6d-be2ad6d81849",
+                  "e51529d5-b24a-4f7d-bc45-e866eafcc35e",
+                  "7036de35-6039-4072-9ee6-592f0ea7979a"
+              ],
+              "format": {
+                  "column_ratio": 0.8125,
+                  "copied_from_pointer": {
+                      "id": "61c919fc-1530-443c-ba2a-62e4e894bcf5",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497383,
+              "last_edited_time": 1696708563627,
+              "parent_id": "f7bd6b79-a29a-4f65-956f-a510d699c4d8",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "61c919fc-1530-443c-ba2a-62e4e894bcf5",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "ea618b7c-94e1-4259-add4-e63327c9b499": {
+          "value": {
+              "id": "ea618b7c-94e1-4259-add4-e63327c9b499",
+              "version": 2,
+              "type": "image",
+              "properties": {
+                  "size": [
+                      [
+                          "74.8KB"
+                      ]
+                  ],
+                  "title": [
+                      [
+                          "Group 11 (1).png"
+                      ]
+                  ],
+                  "source": [
+                      [
+                          "https://prod-files-secure.s3.us-west-2.amazonaws.com/97a5874d-9b21-4b11-ac34-7ea1453011c5/dade105b-f129-41a6-872d-d0565d9fc6e8/Group_11_(1).png"
+                      ]
+                  ]
+              },
+              "format": {
+                  "block_width": 1744,
+                  "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/97a5874d-9b21-4b11-ac34-7ea1453011c5/dade105b-f129-41a6-872d-d0565d9fc6e8/Group_11_(1).png",
+                  "block_full_width": false,
+                  "block_page_width": true,
+                  "block_aspect_ratio": 0.8950688073394495,
+                  "copied_from_pointer": {
+                      "id": "acd2a933-a995-433e-9010-bc120d07eb40",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  },
+                  "block_preserve_scale": true
+              },
+              "created_time": 1696708497384,
+              "last_edited_time": 1696708497384,
+              "parent_id": "c277d5df-bfad-4341-b8f6-c1d1dce50974",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "acd2a933-a995-433e-9010-bc120d07eb40",
+              "file_ids": [
+                  "dade105b-f129-41a6-872d-d0565d9fc6e8"
+              ],
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "4a98eb0a-afee-441e-8e6d-be2ad6d81849": {
+          "value": {
+              "id": "4a98eb0a-afee-441e-8e6d-be2ad6d81849",
+              "version": 1,
+              "type": "quote",
+              "properties": {
+                  "title": [
+                      [
+                          "I am a ",
+                          [
+                              [
+                                  "i"
+                              ]
+                          ]
+                      ],
+                      [
+                          "UI/UX designer with a T-shaped skillset and two years of experience.",
+                          [
+                              [
+                                  "i"
+                              ],
+                              [
+                                  "b"
+                              ]
+                          ]
+                      ],
+                      [
+                          " I specialize in conducting user research, creating wireframes and prototypes, and collaborating with cross-functional teams to ",
+                          [
+                              [
+                                  "i"
+                              ]
+                          ]
+                      ],
+                      [
+                          "develop intuitive and visually appealing digital experiences.",
+                          [
+                              [
+                                  "i"
+                              ],
+                              [
+                                  "b"
+                              ]
+                          ]
+                      ],
+                      [
+                          " I stay up-to-date on the latest design trends and technologies, continuously expanding my knowledge and skills.\n\nAs a ",
+                          [
+                              [
+                                  "i"
+                              ]
+                          ]
+                      ],
+                      [
+                          "creative problem solver",
+                          [
+                              [
+                                  "i"
+                              ],
+                              [
+                                  "b"
+                              ]
+                          ]
+                      ],
+                      [
+                          ", I deliver innovative designs that improve user satisfaction and support business objectives. I have strong communication and collaboration skills, which enable me to effectively translate user requirements into engaging design solutions. ",
+                          [
+                              [
+                                  "i"
+                              ]
+                          ]
+                      ],
+                      [
+                          "I am always seeking new challenges",
+                          [
+                              [
+                                  "i"
+                              ],
+                              [
+                                  "b"
+                              ]
+                          ]
+                      ],
+                      [
+                          " to leverage my T-shaped expertise and passion for learning to deliver exceptional digital experiences.",
+                          [
+                              [
+                                  "i"
+                              ]
+                          ]
+                      ]
+                  ]
+              },
+              "format": {
+                  "block_color": "default",
+                  "copied_from_pointer": {
+                      "id": "46d68a69-f2de-40ca-9869-7ec900b56ce1",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497385,
+              "last_edited_time": 1696708497385,
+              "parent_id": "76e0b172-1d72-423a-b22c-5efaa98fe228",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "46d68a69-f2de-40ca-9869-7ec900b56ce1",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "6adf9fb8-a2d6-43a3-9ca6-40944c669cf0": {
+          "value": {
+              "id": "6adf9fb8-a2d6-43a3-9ca6-40944c669cf0",
+              "version": 1,
+              "type": "divider",
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "4e58d130-5ea2-47f8-b7b4-9b9bd93ebf93",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497384,
+              "last_edited_time": 1696708497384,
+              "parent_id": "c277d5df-bfad-4341-b8f6-c1d1dce50974",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "4e58d130-5ea2-47f8-b7b4-9b9bd93ebf93",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "e51529d5-b24a-4f7d-bc45-e866eafcc35e": {
+          "value": {
+              "id": "e51529d5-b24a-4f7d-bc45-e866eafcc35e",
+              "version": 3,
+              "type": "text",
+              "created_time": 1696708560251,
+              "last_edited_time": 1696708560253,
+              "parent_id": "76e0b172-1d72-423a-b22c-5efaa98fe228",
+              "parent_table": "block",
+              "alive": true,
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "aa922dc7-dbb5-405c-a881-ea01054a08ff": {
+          "value": {
+              "id": "aa922dc7-dbb5-405c-a881-ea01054a08ff",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "🎨 T-Shaped UI/UX Designer\n🎓 Fresh Graduate\n📘 Lifelong Learner"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "7e5455f4-0528-4f35-ab5b-0083cd7219c2",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497384,
+              "last_edited_time": 1696708497384,
+              "parent_id": "c277d5df-bfad-4341-b8f6-c1d1dce50974",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "7e5455f4-0528-4f35-ab5b-0083cd7219c2",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "7036de35-6039-4072-9ee6-592f0ea7979a": {
+          "value": {
+              "id": "7036de35-6039-4072-9ee6-592f0ea7979a",
+              "version": 1,
+              "type": "text",
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "8d6516ba-8035-4e55-80cf-657cd5208f3a",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497385,
+              "last_edited_time": 1696708497385,
+              "parent_id": "76e0b172-1d72-423a-b22c-5efaa98fe228",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "8d6516ba-8035-4e55-80cf-657cd5208f3a",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "cba10bc6-4e5f-467e-a18e-e50f11edfba5": {
+          "value": {
+              "id": "cba10bc6-4e5f-467e-a18e-e50f11edfba5",
+              "version": 1,
+              "type": "column_list",
+              "content": [
+                  "df760ef7-a54a-4e51-a057-ae103da2df97",
+                  "6c1a77fc-fc1a-4ff2-b5c5-f1b47e9bff91"
+              ],
+              "format": {
+                  "block_width": 720,
+                  "block_full_width": false,
+                  "block_page_width": true,
+                  "copied_from_pointer": {
+                      "id": "e49820b0-2cf7-4b51-a442-d59e75171ab9",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497383,
+              "last_edited_time": 1696708497383,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "e49820b0-2cf7-4b51-a442-d59e75171ab9",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "df760ef7-a54a-4e51-a057-ae103da2df97": {
+          "value": {
+              "id": "df760ef7-a54a-4e51-a057-ae103da2df97",
+              "version": 1,
+              "type": "column",
+              "content": [
+                  "49284507-a6e8-4e4c-b126-084d84bbe1ed",
+                  "38fbfeb7-3f41-44c8-94f3-e287fdc60512",
+                  "a1e39420-0116-4d9a-9bb5-8df3922b45eb",
+                  "f557115f-e4ec-405d-a803-e01bc424c29b"
+              ],
+              "format": {
+                  "column_ratio": 0.6875,
+                  "copied_from_pointer": {
+                      "id": "ecd4f672-f1e4-4370-ad39-f590952b14f4",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497383,
+              "last_edited_time": 1696708497383,
+              "parent_id": "cba10bc6-4e5f-467e-a18e-e50f11edfba5",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "ecd4f672-f1e4-4370-ad39-f590952b14f4",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "6c1a77fc-fc1a-4ff2-b5c5-f1b47e9bff91": {
+          "value": {
+              "id": "6c1a77fc-fc1a-4ff2-b5c5-f1b47e9bff91",
+              "version": 1,
+              "type": "column",
+              "content": [
+                  "2426675b-aaab-46c9-9036-9c79855b80d7",
+                  "3cb614a8-7330-4306-8c2d-023ded83d332",
+                  "c6ed88cd-4625-4d7a-8568-bee2e8af6ec5",
+                  "74e47da1-c423-4083-8db2-dc3e84243966",
+                  "888bcec7-d8a9-44b2-8a1a-25d6b5626148"
+              ],
+              "format": {
+                  "column_ratio": 0.7740384615384616,
+                  "copied_from_pointer": {
+                      "id": "b0ec121c-fd87-44a6-a538-639499752dd6",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497383,
+              "last_edited_time": 1696708497383,
+              "parent_id": "cba10bc6-4e5f-467e-a18e-e50f11edfba5",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "b0ec121c-fd87-44a6-a538-639499752dd6",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "49284507-a6e8-4e4c-b126-084d84bbe1ed": {
+          "value": {
+              "id": "49284507-a6e8-4e4c-b126-084d84bbe1ed",
+              "version": 1,
+              "type": "header",
+              "properties": {
+                  "title": [
+                      [
+                          "☎️ Contact"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "a0b9e03a-b5f1-42c4-b0d1-9296be6f95fd",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497385,
+              "last_edited_time": 1696708497385,
+              "parent_id": "df760ef7-a54a-4e51-a057-ae103da2df97",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "a0b9e03a-b5f1-42c4-b0d1-9296be6f95fd",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "2426675b-aaab-46c9-9036-9c79855b80d7": {
+          "value": {
+              "id": "2426675b-aaab-46c9-9036-9c79855b80d7",
+              "version": 1,
+              "type": "header",
+              "properties": {
+                  "title": [
+                      [
+                          "🌐 Website"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "1545deac-d9f4-4de6-81e9-6cb2e1e73cd0",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497385,
+              "last_edited_time": 1696708497385,
+              "parent_id": "6c1a77fc-fc1a-4ff2-b5c5-f1b47e9bff91",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "1545deac-d9f4-4de6-81e9-6cb2e1e73cd0",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "38fbfeb7-3f41-44c8-94f3-e287fdc60512": {
+          "value": {
+              "id": "38fbfeb7-3f41-44c8-94f3-e287fdc60512",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "✉️ "
+                      ],
+                      [
+                          "Email",
+                          [
+                              [
+                                  "b"
+                              ]
+                          ]
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "f65c6074-4284-4237-890f-75221bcf44f4",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497386,
+              "last_edited_time": 1696708497386,
+              "parent_id": "df760ef7-a54a-4e51-a057-ae103da2df97",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "f65c6074-4284-4237-890f-75221bcf44f4",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "3cb614a8-7330-4306-8c2d-023ded83d332": {
+          "value": {
+              "id": "3cb614a8-7330-4306-8c2d-023ded83d332",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "💻 "
+                      ],
+                      [
+                          "Behance",
+                          [
+                              [
+                                  "b"
+                              ]
+                          ]
+                      ],
+                      [
+                          "\n"
+                      ],
+                      [
+                          "https://www.behance.net/irvanstudio/",
+                          [
+                              [
+                                  "a",
+                                  "https://www.behance.net/irvanstudio/"
+                              ]
+                          ]
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "2fc6efac-4cf1-4206-88e1-0b9b61d2259a",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497385,
+              "last_edited_time": 1696708497385,
+              "parent_id": "6c1a77fc-fc1a-4ff2-b5c5-f1b47e9bff91",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "2fc6efac-4cf1-4206-88e1-0b9b61d2259a",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "a1e39420-0116-4d9a-9bb5-8df3922b45eb": {
+          "value": {
+              "id": "a1e39420-0116-4d9a-9bb5-8df3922b45eb",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "example@protonmail.com",
+                          [
+                              [
+                                  "a",
+                                  "mailto:example@protonmail.com"
+                              ]
+                          ]
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "a59e7ef5-7921-4115-bafb-e32a5d0c2e64",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497386,
+              "last_edited_time": 1696708497386,
+              "parent_id": "df760ef7-a54a-4e51-a057-ae103da2df97",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "a59e7ef5-7921-4115-bafb-e32a5d0c2e64",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "c6ed88cd-4625-4d7a-8568-bee2e8af6ec5": {
+          "value": {
+              "id": "c6ed88cd-4625-4d7a-8568-bee2e8af6ec5",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "💼 "
+                      ],
+                      [
+                          "Linkedin",
+                          [
+                              [
+                                  "b"
+                              ]
+                          ]
+                      ],
+                      [
+                          "\n"
+                      ],
+                      [
+                          "https://www.linkedin.com/in/irvan-maulana4869/",
+                          [
+                              [
+                                  "a",
+                                  "https://www.linkedin.com/in/irvan-maulana4869/"
+                              ]
+                          ]
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "53b534c3-518d-4066-a27f-83e3b9295646",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497385,
+              "last_edited_time": 1696708497385,
+              "parent_id": "6c1a77fc-fc1a-4ff2-b5c5-f1b47e9bff91",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "53b534c3-518d-4066-a27f-83e3b9295646",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "f557115f-e4ec-405d-a803-e01bc424c29b": {
+          "value": {
+              "id": "f557115f-e4ec-405d-a803-e01bc424c29b",
+              "version": 1,
+              "type": "text",
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "4da23620-688f-4cf1-9fb1-14b2406d31bb",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497385,
+              "last_edited_time": 1696708497385,
+              "parent_id": "df760ef7-a54a-4e51-a057-ae103da2df97",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "4da23620-688f-4cf1-9fb1-14b2406d31bb",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "74e47da1-c423-4083-8db2-dc3e84243966": {
+          "value": {
+              "id": "74e47da1-c423-4083-8db2-dc3e84243966",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "🤝 "
+                      ],
+                      [
+                          "Let's collaborate here.",
+                          [
+                              [
+                                  "b"
+                              ]
+                          ]
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "179a697c-77b2-4f1f-a226-ebf096102527",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497385,
+              "last_edited_time": 1696708497385,
+              "parent_id": "6c1a77fc-fc1a-4ff2-b5c5-f1b47e9bff91",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "179a697c-77b2-4f1f-a226-ebf096102527",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "888bcec7-d8a9-44b2-8a1a-25d6b5626148": {
+          "value": {
+              "id": "888bcec7-d8a9-44b2-8a1a-25d6b5626148",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "https://www.polywork.com/irvan_maulana",
+                          [
+                              [
+                                  "a",
+                                  "https://www.polywork.com/irvan_maulana"
+                              ]
+                          ]
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "9803416c-236b-4d9e-9545-1028e6fccea3",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497385,
+              "last_edited_time": 1696708497385,
+              "parent_id": "6c1a77fc-fc1a-4ff2-b5c5-f1b47e9bff91",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "9803416c-236b-4d9e-9545-1028e6fccea3",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "0e156153-6e91-4e55-97d4-2d651118dc77": {
+          "value": {
+              "id": "0e156153-6e91-4e55-97d4-2d651118dc77",
+              "version": 1,
+              "type": "column_list",
+              "content": [
+                  "7469007a-bcc1-41e8-9940-6aedeaec9fd2",
+                  "fbd24a5d-adb7-4a96-b8e4-7174dea893c0",
+                  "6dc24e4d-152a-4f66-8b51-121ae24d0f38"
+              ],
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "9342b4f5-2b43-44fa-ab72-b2db69aff039",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497382,
+              "last_edited_time": 1696708497382,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "9342b4f5-2b43-44fa-ab72-b2db69aff039",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "7469007a-bcc1-41e8-9940-6aedeaec9fd2": {
+          "value": {
+              "id": "7469007a-bcc1-41e8-9940-6aedeaec9fd2",
+              "version": 1,
+              "type": "column",
+              "content": [
+                  "08b51464-02a5-4e4f-a425-156fff45673a",
+                  "bfe2126c-d6c3-4ce8-99e5-15e51c57cecd",
+                  "b2b87718-beb2-4c87-9a31-9d569870fe95",
+                  "fb49d49c-7a11-423f-a876-4a8cde24d0e5",
+                  "50acd064-2963-41ae-af25-0173ed1a47aa",
+                  "9426132b-1ca5-49bd-8890-f589cc4802e1"
+              ],
+              "format": {
+                  "column_ratio": 0.41666666666666663,
+                  "copied_from_pointer": {
+                      "id": "a995bc5d-00b1-48e2-b946-ee4f2b4893f6",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497383,
+              "last_edited_time": 1696708497383,
+              "parent_id": "0e156153-6e91-4e55-97d4-2d651118dc77",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "a995bc5d-00b1-48e2-b946-ee4f2b4893f6",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "fbd24a5d-adb7-4a96-b8e4-7174dea893c0": {
+          "value": {
+              "id": "fbd24a5d-adb7-4a96-b8e4-7174dea893c0",
+              "version": 1,
+              "type": "column",
+              "content": [
+                  "dcb507ba-b0c8-4959-af71-e7c8eb644b1f",
+                  "3fa23946-255e-490e-884c-83bda3d1ebe4",
+                  "0424864a-9711-4273-a813-121a84ee1102",
+                  "7b702880-09aa-48ce-8d3b-dd832a35498c",
+                  "d9de6828-8d74-44e0-a076-85478d57b20f",
+                  "10b67612-aa49-4388-90a6-a9dbcc95a72f"
+              ],
+              "format": {
+                  "column_ratio": 0.3333333333333333,
+                  "copied_from_pointer": {
+                      "id": "9ce63f01-cb47-46d7-a9ec-bbc2df6665ac",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497383,
+              "last_edited_time": 1696708497383,
+              "parent_id": "0e156153-6e91-4e55-97d4-2d651118dc77",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "9ce63f01-cb47-46d7-a9ec-bbc2df6665ac",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "6dc24e4d-152a-4f66-8b51-121ae24d0f38": {
+          "value": {
+              "id": "6dc24e4d-152a-4f66-8b51-121ae24d0f38",
+              "version": 1,
+              "type": "column",
+              "content": [
+                  "3bc7497c-d86c-443a-a4d9-5cb26cb36278",
+                  "4667275f-56ae-4926-bd27-7455161825cb",
+                  "347b7238-be5c-450b-9177-7222ebd58996"
+              ],
+              "format": {
+                  "column_ratio": 0.24999999999999994,
+                  "copied_from_pointer": {
+                      "id": "eeaa94b1-ad22-4679-936f-e26131c45001",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497383,
+              "last_edited_time": 1696708497383,
+              "parent_id": "0e156153-6e91-4e55-97d4-2d651118dc77",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "eeaa94b1-ad22-4679-936f-e26131c45001",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "08b51464-02a5-4e4f-a425-156fff45673a": {
+          "value": {
+              "id": "08b51464-02a5-4e4f-a425-156fff45673a",
+              "version": 1,
+              "type": "sub_sub_header",
+              "properties": {
+                  "title": [
+                      [
+                          "✨ Skills"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "108e3f0c-5848-42ed-83d7-0e62797c7421",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497385,
+              "last_edited_time": 1696708497385,
+              "parent_id": "7469007a-bcc1-41e8-9940-6aedeaec9fd2",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "108e3f0c-5848-42ed-83d7-0e62797c7421",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "dcb507ba-b0c8-4959-af71-e7c8eb644b1f": {
+          "value": {
+              "id": "dcb507ba-b0c8-4959-af71-e7c8eb644b1f",
+              "version": 1,
+              "type": "sub_sub_header",
+              "properties": {
+                  "title": [
+                      [
+                          "💫 Apps"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "6606bf9e-5c74-450e-ab32-a0e316cc0453",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497385,
+              "last_edited_time": 1696708497385,
+              "parent_id": "fbd24a5d-adb7-4a96-b8e4-7174dea893c0",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "6606bf9e-5c74-450e-ab32-a0e316cc0453",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "3bc7497c-d86c-443a-a4d9-5cb26cb36278": {
+          "value": {
+              "id": "3bc7497c-d86c-443a-a4d9-5cb26cb36278",
+              "version": 1,
+              "type": "sub_sub_header",
+              "properties": {
+                  "title": [
+                      [
+                          "🌟 Languages"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "9fdcdca8-d0fb-4695-83b6-018a3b8af836",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497386,
+              "last_edited_time": 1696708497386,
+              "parent_id": "6dc24e4d-152a-4f66-8b51-121ae24d0f38",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "9fdcdca8-d0fb-4695-83b6-018a3b8af836",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "bfe2126c-d6c3-4ce8-99e5-15e51c57cecd": {
+          "value": {
+              "id": "bfe2126c-d6c3-4ce8-99e5-15e51c57cecd",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "◈ UI/UX Design"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "9b757178-a6e0-4edc-8de8-aaaa118ecf8f",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497385,
+              "last_edited_time": 1696708497385,
+              "parent_id": "7469007a-bcc1-41e8-9940-6aedeaec9fd2",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "9b757178-a6e0-4edc-8de8-aaaa118ecf8f",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "3fa23946-255e-490e-884c-83bda3d1ebe4": {
+          "value": {
+              "id": "3fa23946-255e-490e-884c-83bda3d1ebe4",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "◈ Figma"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "78a80457-ff70-4f25-ad01-9f21f30497a9",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497385,
+              "last_edited_time": 1696708497385,
+              "parent_id": "fbd24a5d-adb7-4a96-b8e4-7174dea893c0",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "78a80457-ff70-4f25-ad01-9f21f30497a9",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "4667275f-56ae-4926-bd27-7455161825cb": {
+          "value": {
+              "id": "4667275f-56ae-4926-bd27-7455161825cb",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "◈ Indonesia"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "be949862-c319-48bb-b667-ad3a46a77a45",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497386,
+              "last_edited_time": 1696708497386,
+              "parent_id": "6dc24e4d-152a-4f66-8b51-121ae24d0f38",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "be949862-c319-48bb-b667-ad3a46a77a45",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "b2b87718-beb2-4c87-9a31-9d569870fe95": {
+          "value": {
+              "id": "b2b87718-beb2-4c87-9a31-9d569870fe95",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "◈ UX Tools Methods"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "44b2da43-f3c7-4677-9821-ac1b88eac5bd",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497385,
+              "last_edited_time": 1696708497385,
+              "parent_id": "7469007a-bcc1-41e8-9940-6aedeaec9fd2",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "44b2da43-f3c7-4677-9821-ac1b88eac5bd",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "0424864a-9711-4273-a813-121a84ee1102": {
+          "value": {
+              "id": "0424864a-9711-4273-a813-121a84ee1102",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "◈ Adobe Illustrator"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "168817cb-ec2f-4e48-bbb9-e7707db00593",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497385,
+              "last_edited_time": 1696708497385,
+              "parent_id": "fbd24a5d-adb7-4a96-b8e4-7174dea893c0",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "168817cb-ec2f-4e48-bbb9-e7707db00593",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "347b7238-be5c-450b-9177-7222ebd58996": {
+          "value": {
+              "id": "347b7238-be5c-450b-9177-7222ebd58996",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "◈ English"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "7ff36498-0801-4df2-81af-fb61118445e7",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497386,
+              "last_edited_time": 1696708497386,
+              "parent_id": "6dc24e4d-152a-4f66-8b51-121ae24d0f38",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "7ff36498-0801-4df2-81af-fb61118445e7",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "fb49d49c-7a11-423f-a876-4a8cde24d0e5": {
+          "value": {
+              "id": "fb49d49c-7a11-423f-a876-4a8cde24d0e5",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "◈ Prototyping"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "4a9fc4d1-1ddb-405e-bb75-e295605e24a9",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497385,
+              "last_edited_time": 1696708497385,
+              "parent_id": "7469007a-bcc1-41e8-9940-6aedeaec9fd2",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "4a9fc4d1-1ddb-405e-bb75-e295605e24a9",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "7b702880-09aa-48ce-8d3b-dd832a35498c": {
+          "value": {
+              "id": "7b702880-09aa-48ce-8d3b-dd832a35498c",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "◈ Adobe XD"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "eea69029-b041-4a40-b937-c62415dd5767",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497385,
+              "last_edited_time": 1696708497385,
+              "parent_id": "fbd24a5d-adb7-4a96-b8e4-7174dea893c0",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "eea69029-b041-4a40-b937-c62415dd5767",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "50acd064-2963-41ae-af25-0173ed1a47aa": {
+          "value": {
+              "id": "50acd064-2963-41ae-af25-0173ed1a47aa",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "◈ Visual Branding"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "f9646877-4e63-4f23-8684-8e052888a481",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497385,
+              "last_edited_time": 1696708497385,
+              "parent_id": "7469007a-bcc1-41e8-9940-6aedeaec9fd2",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "f9646877-4e63-4f23-8684-8e052888a481",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "d9de6828-8d74-44e0-a076-85478d57b20f": {
+          "value": {
+              "id": "d9de6828-8d74-44e0-a076-85478d57b20f",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "◈ Trello"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "d632fc24-4ac4-4ba6-b3c5-4582dbf95351",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497385,
+              "last_edited_time": 1696708497385,
+              "parent_id": "fbd24a5d-adb7-4a96-b8e4-7174dea893c0",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "d632fc24-4ac4-4ba6-b3c5-4582dbf95351",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "9426132b-1ca5-49bd-8890-f589cc4802e1": {
+          "value": {
+              "id": "9426132b-1ca5-49bd-8890-f589cc4802e1",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "◈ Basic Coding"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "857c6eda-2be9-4809-8412-fcb854882169",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497385,
+              "last_edited_time": 1696708497385,
+              "parent_id": "7469007a-bcc1-41e8-9940-6aedeaec9fd2",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "857c6eda-2be9-4809-8412-fcb854882169",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "10b67612-aa49-4388-90a6-a9dbcc95a72f": {
+          "value": {
+              "id": "10b67612-aa49-4388-90a6-a9dbcc95a72f",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "◈ Google Workspace"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "0a539306-7147-4384-8063-bdf28f77487a",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497385,
+              "last_edited_time": 1696708497385,
+              "parent_id": "fbd24a5d-adb7-4a96-b8e4-7174dea893c0",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "0a539306-7147-4384-8063-bdf28f77487a",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "01e667ec-0668-4d61-a2e7-f60d7135e5e3": {
+          "value": {
+              "id": "01e667ec-0668-4d61-a2e7-f60d7135e5e3",
+              "version": 1,
+              "type": "divider",
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "6762607f-808a-4735-8fd1-b534f2dd6a39",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497382,
+              "last_edited_time": 1696708497382,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "6762607f-808a-4735-8fd1-b534f2dd6a39",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "93184afa-c7f9-4b1b-aa6a-2905deed0147": {
+          "value": {
+              "id": "93184afa-c7f9-4b1b-aa6a-2905deed0147",
+              "version": 1,
+              "type": "header",
+              "properties": {
+                  "title": [
+                      [
+                          "🎓 Education"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "c9c5ec5f-b7e5-45e7-8908-5ad35edb82f1",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497383,
+              "last_edited_time": 1696708497383,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "c9c5ec5f-b7e5-45e7-8908-5ad35edb82f1",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "3bfb7151-a6fb-432c-9c20-f4d0d8db7f91": {
+          "value": {
+              "id": "3bfb7151-a6fb-432c-9c20-f4d0d8db7f91",
+              "version": 1,
+              "type": "sub_header",
+              "properties": {
+                  "title": [
+                      [
+                          "Sekolah Tinggi Teknologi Bandung"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "678f40b0-ee0a-4257-ba6d-75020effb1c5",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497382,
+              "last_edited_time": 1696708497382,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "678f40b0-ee0a-4257-ba6d-75020effb1c5",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "07dc0121-4551-4f4f-bdf3-6bf17f363203": {
+          "value": {
+              "id": "07dc0121-4551-4f4f-bdf3-6bf17f363203",
+              "version": 1,
+              "type": "divider",
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "81d7361d-32fc-41e9-bb72-d7baa15c7daa",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497382,
+              "last_edited_time": 1696708497382,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "81d7361d-32fc-41e9-bb72-d7baa15c7daa",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "4593611c-a947-4fb3-9250-02ba6402cfa3": {
+          "value": {
+              "id": "4593611c-a947-4fb3-9250-02ba6402cfa3",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "Major in Computer Science",
+                          [
+                              [
+                                  "b"
+                              ],
+                              [
+                                  "i"
+                              ]
+                          ]
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "1dde17a8-44af-47f1-bcb3-069702cbe4d4",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497381,
+              "last_edited_time": 1696708497381,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "1dde17a8-44af-47f1-bcb3-069702cbe4d4",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "39c9f44e-76f5-4e06-bfcd-95eb1b297004": {
+          "value": {
+              "id": "39c9f44e-76f5-4e06-bfcd-95eb1b297004",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "Minor in Computer Network Security (CNS)"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "82104ca4-02b9-4284-9d9c-12c2720a67d1",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497382,
+              "last_edited_time": 1696708497382,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "82104ca4-02b9-4284-9d9c-12c2720a67d1",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "f2cd2f7c-e59a-4471-a5ed-e991a0b45a23": {
+          "value": {
+              "id": "f2cd2f7c-e59a-4471-a5ed-e991a0b45a23",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "Nov 2018 - May 2023 "
+                      ],
+                      [
+                          "·",
+                          [
+                              [
+                                  "b"
+                              ],
+                              [
+                                  "b"
+                              ]
+                          ]
+                      ],
+                      [
+                          " GPA "
+                      ],
+                      [
+                          "3.98",
+                          [
+                              [
+                                  "b"
+                              ]
+                          ]
+                      ],
+                      [
+                          "/4.00 (Cumlaude)"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "6fef600d-51f2-4972-9b95-afed619886b6",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497382,
+              "last_edited_time": 1696708497382,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "6fef600d-51f2-4972-9b95-afed619886b6",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "2aa3c38d-6b2e-45ba-befc-f65eb7f8b083": {
+          "value": {
+              "id": "2aa3c38d-6b2e-45ba-befc-f65eb7f8b083",
+              "version": 1,
+              "type": "sub_header",
+              "properties": {
+                  "title": [
+                      [
+                          "Binar Academy"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "539e64c8-b1a2-4565-8c6f-419e54cf8436",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497382,
+              "last_edited_time": 1696708497382,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "539e64c8-b1a2-4565-8c6f-419e54cf8436",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "42631280-a1f5-441f-9f47-4da598fb5741": {
+          "value": {
+              "id": "42631280-a1f5-441f-9f47-4da598fb5741",
+              "version": 1,
+              "type": "divider",
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "ed8f59d1-8ddd-4032-91a7-c080337ef25a",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497383,
+              "last_edited_time": 1696708497383,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "ed8f59d1-8ddd-4032-91a7-c080337ef25a",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "db9f4f6e-6239-4c42-b702-ad56523930a6": {
+          "value": {
+              "id": "db9f4f6e-6239-4c42-b702-ad56523930a6",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "UI/UX Research & Design Bootcamp",
+                          [
+                              [
+                                  "b"
+                              ],
+                              [
+                                  "i"
+                              ]
+                          ]
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "c3ba498e-fdff-4df9-abf0-208feeef19bc",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497383,
+              "last_edited_time": 1696708497383,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "c3ba498e-fdff-4df9-abf0-208feeef19bc",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "6cc03681-2429-4c37-b468-7821457a9354": {
+          "value": {
+              "id": "6cc03681-2429-4c37-b468-7821457a9354",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "No Degree "
+                      ],
+                      [
+                          "· ",
+                          [
+                              [
+                                  "b"
+                              ],
+                              [
+                                  "b"
+                              ]
+                          ]
+                      ],
+                      [
+                          "Kampus Merdeka Batch II Program "
+                      ],
+                      [
+                          "·",
+                          [
+                              [
+                                  "b"
+                              ],
+                              [
+                                  "b"
+                              ]
+                          ]
+                      ],
+                      [
+                          " Independent Study"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "06f7cb3d-7d13-433c-aa18-edd7d15e0243",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497381,
+              "last_edited_time": 1696708497381,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "06f7cb3d-7d13-433c-aa18-edd7d15e0243",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "8899af3b-489d-4877-b738-18bd5f5e17f1": {
+          "value": {
+              "id": "8899af3b-489d-4877-b738-18bd5f5e17f1",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "Feb 2022 - Jul 2022 "
+                      ],
+                      [
+                          "· 4.9",
+                          [
+                              [
+                                  "b"
+                              ],
+                              [
+                                  "b"
+                              ]
+                          ]
+                      ],
+                      [
+                          "/5.0 (Most Progressive Student)"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "f7f650e4-0c16-4b12-945c-1aedf0432f24",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497383,
+              "last_edited_time": 1696708497383,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "f7f650e4-0c16-4b12-945c-1aedf0432f24",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "09bb1571-67a2-4b54-9c43-970c46063af2": {
+          "value": {
+              "id": "09bb1571-67a2-4b54-9c43-970c46063af2",
+              "version": 1,
+              "type": "sub_header",
+              "properties": {
+                  "title": [
+                      [
+                          "Skilvul"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "235a58a7-0963-4597-a78d-754e89729226",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497381,
+              "last_edited_time": 1696708497381,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "235a58a7-0963-4597-a78d-754e89729226",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "f9a18311-f043-47d7-a29f-476bd04693f1": {
+          "value": {
+              "id": "f9a18311-f043-47d7-a29f-476bd04693f1",
+              "version": 1,
+              "type": "divider",
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "789869a1-4a48-4628-8173-3217ffdec422",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497382,
+              "last_edited_time": 1696708497382,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "789869a1-4a48-4628-8173-3217ffdec422",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "85d0dc87-4977-4728-88b5-5b29651f0f3a": {
+          "value": {
+              "id": "85d0dc87-4977-4728-88b5-5b29651f0f3a",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "UI/UX Design Mastery (Gold)",
+                          [
+                              [
+                                  "b"
+                              ],
+                              [
+                                  "i"
+                              ]
+                          ]
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "0c806b64-56e3-4cd1-9a6e-a5302ec2cee2",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497381,
+              "last_edited_time": 1696708497381,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "0c806b64-56e3-4cd1-9a6e-a5302ec2cee2",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "d6f94603-ffa1-40ce-9dbd-0db3d77be564": {
+          "value": {
+              "id": "d6f94603-ffa1-40ce-9dbd-0db3d77be564",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "No Degree "
+                      ],
+                      [
+                          "· ",
+                          [
+                              [
+                                  "b"
+                              ],
+                              [
+                                  "b"
+                              ]
+                          ]
+                      ],
+                      [
+                          "Self-Paced Learning"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "f89c28af-22a5-47f9-9975-4eeb355878a7",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497383,
+              "last_edited_time": 1696708497383,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "f89c28af-22a5-47f9-9975-4eeb355878a7",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "f3c64e47-98e5-4145-80c6-16e98528160a": {
+          "value": {
+              "id": "f3c64e47-98e5-4145-80c6-16e98528160a",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "1 May - 24 May "
+                      ],
+                      [
+                          "· A ",
+                          [
+                              [
+                                  "b"
+                              ],
+                              [
+                                  "b"
+                              ]
+                          ]
+                      ],
+                      [
+                          "(Gold)"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "be10f0b1-ac3e-478f-b280-9cd020b41888",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497383,
+              "last_edited_time": 1696708497383,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "be10f0b1-ac3e-478f-b280-9cd020b41888",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "6b79cb50-6161-4dee-9c95-2ad9f000ef23": {
+          "value": {
+              "id": "6b79cb50-6161-4dee-9c95-2ad9f000ef23",
+              "version": 1,
+              "type": "text",
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "232a9904-a3b4-45bb-a201-c3aca543a4b5",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497381,
+              "last_edited_time": 1696708497381,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "232a9904-a3b4-45bb-a201-c3aca543a4b5",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "f23641f4-4f16-4232-b319-1aa49e4c6d95": {
+          "value": {
+              "id": "f23641f4-4f16-4232-b319-1aa49e4c6d95",
+              "version": 1,
+              "type": "divider",
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "e3efeda3-8ee0-4399-8eea-3fb3f150504d",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497383,
+              "last_edited_time": 1696708497383,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "e3efeda3-8ee0-4399-8eea-3fb3f150504d",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "a0f98ba5-71ac-4ef2-bf8f-945459913cf8": {
+          "value": {
+              "id": "a0f98ba5-71ac-4ef2-bf8f-945459913cf8",
+              "version": 1,
+              "type": "column_list",
+              "content": [
+                  "e4b2138d-7758-4c1a-b04e-bff70cfbe88e",
+                  "43c00b74-cae3-463e-a1a9-c3bac676fce6"
+              ],
+              "format": {
+                  "block_width": 720,
+                  "block_full_width": false,
+                  "block_page_width": true,
+                  "copied_from_pointer": {
+                      "id": "8cc2b249-5ebb-42bb-bd67-bd9210a07edb",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497382,
+              "last_edited_time": 1696708497382,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "8cc2b249-5ebb-42bb-bd67-bd9210a07edb",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "e4b2138d-7758-4c1a-b04e-bff70cfbe88e": {
+          "value": {
+              "id": "e4b2138d-7758-4c1a-b04e-bff70cfbe88e",
+              "version": 1,
+              "type": "column",
+              "content": [
+                  "ced8428d-382e-426f-b52b-b41d0607ea4f"
+              ],
+              "format": {
+                  "column_ratio": 0.3125,
+                  "copied_from_pointer": {
+                      "id": "c0fb026f-46aa-4f55-a82e-6926bf6eeec3",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497383,
+              "last_edited_time": 1696708497383,
+              "parent_id": "a0f98ba5-71ac-4ef2-bf8f-945459913cf8",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "c0fb026f-46aa-4f55-a82e-6926bf6eeec3",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "43c00b74-cae3-463e-a1a9-c3bac676fce6": {
+          "value": {
+              "id": "43c00b74-cae3-463e-a1a9-c3bac676fce6",
+              "version": 1,
+              "type": "column",
+              "content": [
+                  "6461749a-8f03-424e-9064-5b4355ebd80b",
+                  "46de7d98-c636-43d8-b4fe-7154b2a9521d"
+              ],
+              "format": {
+                  "column_ratio": 0.6875,
+                  "copied_from_pointer": {
+                      "id": "0387681a-888d-4f8e-8aa9-d9679bd6c6fa",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497383,
+              "last_edited_time": 1696708497383,
+              "parent_id": "a0f98ba5-71ac-4ef2-bf8f-945459913cf8",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "0387681a-888d-4f8e-8aa9-d9679bd6c6fa",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "ced8428d-382e-426f-b52b-b41d0607ea4f": {
+          "value": {
+              "id": "ced8428d-382e-426f-b52b-b41d0607ea4f",
+              "version": 1,
+              "type": "header",
+              "properties": {
+                  "title": [
+                      [
+                          "💼 Experience"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "6f3622da-8fdd-4838-88bf-4bfa19564caf",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497385,
+              "last_edited_time": 1696708497385,
+              "parent_id": "e4b2138d-7758-4c1a-b04e-bff70cfbe88e",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "6f3622da-8fdd-4838-88bf-4bfa19564caf",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "6461749a-8f03-424e-9064-5b4355ebd80b": {
+          "value": {
+              "id": "6461749a-8f03-424e-9064-5b4355ebd80b",
+              "version": 1,
+              "type": "sub_header",
+              "properties": {
+                  "title": [
+                      [
+                          "Cooperation Division Of Bandung City Government 🏛️"
+                      ]
+                  ]
+              },
+              "content": [
+                  "57ab51e9-76a3-41de-a261-1fd69006bee8",
+                  "35cdfc55-d570-4f10-a51a-c05cb6fb0f2e",
+                  "fa48720f-4a12-4273-9b7d-9b22e39e84cb",
+                  "9b3896e0-10f6-4c36-9b99-39c1edb1ae5a"
+              ],
+              "format": {
+                  "toggleable": true,
+                  "copied_from_pointer": {
+                      "id": "0a47b70c-d6d7-4fad-8bc1-e060343043f2",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497384,
+              "last_edited_time": 1696708497384,
+              "parent_id": "43c00b74-cae3-463e-a1a9-c3bac676fce6",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "0a47b70c-d6d7-4fad-8bc1-e060343043f2",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "46de7d98-c636-43d8-b4fe-7154b2a9521d": {
+          "value": {
+              "id": "46de7d98-c636-43d8-b4fe-7154b2a9521d",
+              "version": 1,
+              "type": "sub_header",
+              "properties": {
+                  "title": [
+                      [
+                          "Niagahoster - Web Hosting Unlimited Indonesia 🌐"
+                      ]
+                  ]
+              },
+              "content": [
+                  "d77423a7-f31c-4769-ba57-0a1d60a77876",
+                  "263fa036-ba65-40ec-9b4c-685e0792b390",
+                  "4f916d44-660c-4a20-8356-4e86dad8fc18",
+                  "dd79ba0f-94be-4afb-a9ab-044dfbb608a7"
+              ],
+              "format": {
+                  "toggleable": true,
+                  "copied_from_pointer": {
+                      "id": "f51ea17d-9018-4ab7-a658-71852c42496a",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497384,
+              "last_edited_time": 1696708497384,
+              "parent_id": "43c00b74-cae3-463e-a1a9-c3bac676fce6",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "f51ea17d-9018-4ab7-a658-71852c42496a",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "2fbdd6c5-bd8d-4c15-a74a-163b7e8a9a7f": {
+          "value": {
+              "id": "2fbdd6c5-bd8d-4c15-a74a-163b7e8a9a7f",
+              "version": 1,
+              "type": "divider",
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "14242253-f486-405a-aac7-8d28d66213e5",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497381,
+              "last_edited_time": 1696708497381,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "14242253-f486-405a-aac7-8d28d66213e5",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "12bdd8eb-e7ac-470b-a913-98004501072a": {
+          "value": {
+              "id": "12bdd8eb-e7ac-470b-a913-98004501072a",
+              "version": 1,
+              "type": "header",
+              "properties": {
+                  "title": [
+                      [
+                          "🏆 Honors & Awards"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "adf4dcde-b8ee-4f32-8237-66c11645011a",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497382,
+              "last_edited_time": 1696708497382,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "adf4dcde-b8ee-4f32-8237-66c11645011a",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "fc04a76e-1ae4-41e0-ba01-c6830bc9a0a6": {
+          "value": {
+              "id": "fc04a76e-1ae4-41e0-ba01-c6830bc9a0a6",
+              "version": 1,
+              "type": "divider",
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "c5330e1f-cd48-4422-a1c4-a902ce974b83",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497383,
+              "last_edited_time": 1696708497383,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "c5330e1f-cd48-4422-a1c4-a902ce974b83",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "9799a652-d332-4db7-880d-aec12ab2b32d": {
+          "value": {
+              "id": "9799a652-d332-4db7-880d-aec12ab2b32d",
+              "version": 1,
+              "type": "column_list",
+              "content": [
+                  "bf963d5d-8bd1-4cd3-a8e4-0df531481a2d",
+                  "2c4927f9-9752-4ff7-ba88-515788bdaf03"
+              ],
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "5457c693-bc95-4d5a-a38b-74982f2c73f0",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497382,
+              "last_edited_time": 1696708497382,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "5457c693-bc95-4d5a-a38b-74982f2c73f0",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "bf963d5d-8bd1-4cd3-a8e4-0df531481a2d": {
+          "value": {
+              "id": "bf963d5d-8bd1-4cd3-a8e4-0df531481a2d",
+              "version": 1,
+              "type": "column",
+              "content": [
+                  "a4a04da1-bb9f-4163-820e-ed2eb391a729"
+              ],
+              "format": {
+                  "column_ratio": 0.5000000000000002,
+                  "copied_from_pointer": {
+                      "id": "3fdd168d-87a5-427c-ac9a-453498dac10f",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497383,
+              "last_edited_time": 1696708497383,
+              "parent_id": "9799a652-d332-4db7-880d-aec12ab2b32d",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "3fdd168d-87a5-427c-ac9a-453498dac10f",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "2c4927f9-9752-4ff7-ba88-515788bdaf03": {
+          "value": {
+              "id": "2c4927f9-9752-4ff7-ba88-515788bdaf03",
+              "version": 1,
+              "type": "column",
+              "content": [
+                  "42e46fd0-b78d-4b87-80fd-482e911ea67e"
+              ],
+              "format": {
+                  "column_ratio": 0.5000000000000001,
+                  "copied_from_pointer": {
+                      "id": "9c23da2b-ecef-4db0-8430-1a9829f41400",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497383,
+              "last_edited_time": 1696708497383,
+              "parent_id": "9799a652-d332-4db7-880d-aec12ab2b32d",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "9c23da2b-ecef-4db0-8430-1a9829f41400",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "a4a04da1-bb9f-4163-820e-ed2eb391a729": {
+          "value": {
+              "id": "a4a04da1-bb9f-4163-820e-ed2eb391a729",
+              "version": 1,
+              "type": "quote",
+              "properties": {
+                  "title": [
+                      [
+                          "🎗️Most Progressive Student\n",
+                          [
+                              [
+                                  "b"
+                              ]
+                          ]
+                      ]
+                  ]
+              },
+              "content": [
+                  "e87e8bfe-66bf-4d6e-a260-46bcb53bdaf9",
+                  "8857ac5a-e4a2-4e3e-bf48-78648bb089d0",
+                  "5d16e52b-f76b-4984-8a46-391452a76e55"
+              ],
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "5a2ef956-a1cb-415d-819e-17ea17f1ba24",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497384,
+              "last_edited_time": 1696708497384,
+              "parent_id": "bf963d5d-8bd1-4cd3-a8e4-0df531481a2d",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "5a2ef956-a1cb-415d-819e-17ea17f1ba24",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "42e46fd0-b78d-4b87-80fd-482e911ea67e": {
+          "value": {
+              "id": "42e46fd0-b78d-4b87-80fd-482e911ea67e",
+              "version": 1,
+              "type": "quote",
+              "properties": {
+                  "title": [
+                      [
+                          "🥈 2nd Place in the UI/UX TechnoFest Competition 2022",
+                          [
+                              [
+                                  "b"
+                              ]
+                          ]
+                      ]
+                  ]
+              },
+              "content": [
+                  "c7222c63-27bc-453a-976e-e2935017d29e",
+                  "00338272-114a-4397-8d09-01e498376d9d",
+                  "09da2e75-7651-4088-bbaa-7596af311473"
+              ],
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "662c6253-9da9-4bb3-9720-374b70570e8e",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497385,
+              "last_edited_time": 1696708497385,
+              "parent_id": "2c4927f9-9752-4ff7-ba88-515788bdaf03",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "662c6253-9da9-4bb3-9720-374b70570e8e",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "e87e8bfe-66bf-4d6e-a260-46bcb53bdaf9": {
+          "value": {
+              "id": "e87e8bfe-66bf-4d6e-a260-46bcb53bdaf9",
+              "version": 1,
+              "type": "divider",
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "306ea79a-e6fd-4a41-9248-9774485ec745",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497389,
+              "last_edited_time": 1696708497389,
+              "parent_id": "a4a04da1-bb9f-4163-820e-ed2eb391a729",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "306ea79a-e6fd-4a41-9248-9774485ec745",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "c7222c63-27bc-453a-976e-e2935017d29e": {
+          "value": {
+              "id": "c7222c63-27bc-453a-976e-e2935017d29e",
+              "version": 1,
+              "type": "divider",
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "c52a6195-62c9-4a0c-b170-efa2b7b75c35",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497389,
+              "last_edited_time": 1696708497389,
+              "parent_id": "42e46fd0-b78d-4b87-80fd-482e911ea67e",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "c52a6195-62c9-4a0c-b170-efa2b7b75c35",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "8857ac5a-e4a2-4e3e-bf48-78648bb089d0": {
+          "value": {
+              "id": "8857ac5a-e4a2-4e3e-bf48-78648bb089d0",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "Aug 2022  "
+                      ],
+                      [
+                          "· ",
+                          [
+                              [
+                                  "b"
+                              ],
+                              [
+                                  "b"
+                              ]
+                          ]
+                      ],
+                      [
+                          "Binar Academy"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "9ef895ec-a7c7-48a4-bc1e-0e966bf8945d",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497389,
+              "last_edited_time": 1696708497389,
+              "parent_id": "a4a04da1-bb9f-4163-820e-ed2eb391a729",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "9ef895ec-a7c7-48a4-bc1e-0e966bf8945d",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "00338272-114a-4397-8d09-01e498376d9d": {
+          "value": {
+              "id": "00338272-114a-4397-8d09-01e498376d9d",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "Sep 2022  "
+                      ],
+                      [
+                          "· ",
+                          [
+                              [
+                                  "b"
+                              ],
+                              [
+                                  "b"
+                              ]
+                          ]
+                      ],
+                      [
+                          "Sriwijaya University"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "aa38f0a1-188e-456c-bd9f-e60ee7161b65",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497389,
+              "last_edited_time": 1696708497389,
+              "parent_id": "42e46fd0-b78d-4b87-80fd-482e911ea67e",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "aa38f0a1-188e-456c-bd9f-e60ee7161b65",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "5d16e52b-f76b-4984-8a46-391452a76e55": {
+          "value": {
+              "id": "5d16e52b-f76b-4984-8a46-391452a76e55",
+              "version": 1,
+              "type": "toggle",
+              "properties": {
+                  "title": [
+                      [
+                          "Description"
+                      ]
+                  ]
+              },
+              "content": [
+                  "c0644cb4-59ea-4e70-98b6-d43d27cd97e4"
+              ],
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "deaf0ae5-3f53-4519-8a6c-f43caf28a2eb",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497389,
+              "last_edited_time": 1696708497389,
+              "parent_id": "a4a04da1-bb9f-4163-820e-ed2eb391a729",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "deaf0ae5-3f53-4519-8a6c-f43caf28a2eb",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "09da2e75-7651-4088-bbaa-7596af311473": {
+          "value": {
+              "id": "09da2e75-7651-4088-bbaa-7596af311473",
+              "version": 1,
+              "type": "toggle",
+              "properties": {
+                  "title": [
+                      [
+                          "Description"
+                      ]
+                  ]
+              },
+              "content": [
+                  "97d44bda-f979-41e2-b1eb-d0c9c8d15ea0"
+              ],
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "c3a0fa62-d5a2-49c2-93b8-d74bdae905fc",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497389,
+              "last_edited_time": 1696708497389,
+              "parent_id": "42e46fd0-b78d-4b87-80fd-482e911ea67e",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "c3a0fa62-d5a2-49c2-93b8-d74bdae905fc",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "acf25301-84ba-4619-b338-41c1d96d5a4e": {
+          "value": {
+              "id": "acf25301-84ba-4619-b338-41c1d96d5a4e",
+              "version": 1,
+              "type": "header",
+              "properties": {
+                  "title": [
+                      [
+                          "👥 Organization"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "961c4281-6e46-4ffe-acf5-5f5a89af90a9",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497382,
+              "last_edited_time": 1696708497382,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "961c4281-6e46-4ffe-acf5-5f5a89af90a9",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "b34a8db4-5219-408b-a834-f6c50be67f9b": {
+          "value": {
+              "id": "b34a8db4-5219-408b-a834-f6c50be67f9b",
+              "version": 1,
+              "type": "divider",
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "7869bcc7-d756-4c6d-afae-0e341fa3cbe3",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497382,
+              "last_edited_time": 1696708497382,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "7869bcc7-d756-4c6d-afae-0e341fa3cbe3",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "ace57932-5fc7-47b2-9864-3fc1f6affb13": {
+          "value": {
+              "id": "ace57932-5fc7-47b2-9864-3fc1f6affb13",
+              "version": 1,
+              "type": "toggle",
+              "properties": {
+                  "title": [
+                      [
+                          "🧑🏻‍🎓GitHub Global Campus"
+                      ]
+                  ]
+              },
+              "content": [
+                  "39378c5b-6eca-4899-aac2-4dc95186a520",
+                  "52a7ad0c-3be2-4fbf-86f1-5203fa58e9f7",
+                  "1cb27b7a-2afa-46c9-a682-b6f437d1b4c8"
+              ],
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "b45c868b-2d69-4aeb-bfbf-4deffb15ce57",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497382,
+              "last_edited_time": 1696708497382,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "b45c868b-2d69-4aeb-bfbf-4deffb15ce57",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "ed857d1a-c887-4b05-982b-ba2aeccde345": {
+          "value": {
+              "id": "ed857d1a-c887-4b05-982b-ba2aeccde345",
+              "version": 1,
+              "type": "toggle",
+              "properties": {
+                  "title": [
+                      [
+                          "👮🏻‍♂️Student Police Organization"
+                      ]
+                  ]
+              },
+              "content": [
+                  "d4d8478f-5aac-4ff0-a2a8-8121f3ebb16c",
+                  "4ab64659-1f2a-4fe2-b94b-5a41a08840e8",
+                  "01649576-ce6b-49eb-9a89-5ed79fcc6b02"
+              ],
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "f5e2ee08-3a30-4c62-bb41-6cccd867837c",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497383,
+              "last_edited_time": 1696708497383,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "f5e2ee08-3a30-4c62-bb41-6cccd867837c",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "5afd5b8b-9194-4271-8586-a0cb1bbfb323": {
+          "value": {
+              "id": "5afd5b8b-9194-4271-8586-a0cb1bbfb323",
+              "version": 1,
+              "type": "divider",
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "4279b6a8-a265-4f20-8e5a-4e61446e7f63",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497381,
+              "last_edited_time": 1696708497381,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "4279b6a8-a265-4f20-8e5a-4e61446e7f63",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "5eee824e-bc10-4bb0-b760-201e1a46b23c": {
+          "value": {
+              "id": "5eee824e-bc10-4bb0-b760-201e1a46b23c",
+              "version": 1,
+              "type": "divider",
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "37c194cf-52fc-46fb-a9ab-6f34133e4d17",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497381,
+              "last_edited_time": 1696708497381,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "37c194cf-52fc-46fb-a9ab-6f34133e4d17",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "6ac4be55-896a-4e9d-86df-39758c184dc5": {
+          "value": {
+              "id": "6ac4be55-896a-4e9d-86df-39758c184dc5",
+              "version": 1,
+              "type": "divider",
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "9e691c21-f20f-41fc-83b5-f11f2a4189c7",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497382,
+              "last_edited_time": 1696708497382,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "9e691c21-f20f-41fc-83b5-f11f2a4189c7",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "61ddd0b6-108d-489a-8740-08bf68257da5": {
+          "value": {
+              "id": "61ddd0b6-108d-489a-8740-08bf68257da5",
+              "version": 1,
+              "type": "callout",
+              "properties": {
+                  "title": [
+                      [
+                          "2023 Irvan Maulana. Made with ",
+                          [
+                              [
+                                  "b"
+                              ]
+                          ]
+                      ],
+                      [
+                          "❤️ and dedication."
+                      ]
+                  ]
+              },
+              "format": {
+                  "page_icon": "🌐",
+                  "block_color": "default",
+                  "copied_from_pointer": {
+                      "id": "9f60dfc3-a613-4ed4-bfd2-8b13c34a2bfe",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497382,
+              "last_edited_time": 1696708497382,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "9f60dfc3-a613-4ed4-bfd2-8b13c34a2bfe",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "0db4ade8-a510-4017-9d7e-c22eed65723e": {
+          "value": {
+              "id": "0db4ade8-a510-4017-9d7e-c22eed65723e",
+              "version": 1,
+              "type": "text",
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "9a17475c-5366-4ee0-90aa-7fedcd79c179",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497382,
+              "last_edited_time": 1696708497382,
+              "parent_id": "adcccad0-3128-4a60-97b6-c1cb75535e82",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "9a17475c-5366-4ee0-90aa-7fedcd79c179",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "57ab51e9-76a3-41de-a261-1fd69006bee8": {
+          "value": {
+              "id": "57ab51e9-76a3-41de-a261-1fd69006bee8",
+              "version": 1,
+              "type": "divider",
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "a8ed6b15-e722-4c02-adfe-43b2670b2664",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497388,
+              "last_edited_time": 1696708497388,
+              "parent_id": "6461749a-8f03-424e-9064-5b4355ebd80b",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "a8ed6b15-e722-4c02-adfe-43b2670b2664",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "35cdfc55-d570-4f10-a51a-c05cb6fb0f2e": {
+          "value": {
+              "id": "35cdfc55-d570-4f10-a51a-c05cb6fb0f2e",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "Project-Based Intern · UI/UX Designer · Onsite · Bandung",
+                          [
+                              [
+                                  "b"
+                              ]
+                          ]
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "65b0bc5c-d900-4baf-aa40-22af172236af",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497388,
+              "last_edited_time": 1696708497388,
+              "parent_id": "6461749a-8f03-424e-9064-5b4355ebd80b",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "65b0bc5c-d900-4baf-aa40-22af172236af",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "fa48720f-4a12-4273-9b7d-9b22e39e84cb": {
+          "value": {
+              "id": "fa48720f-4a12-4273-9b7d-9b22e39e84cb",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "Cooperation Division of Bandung City Government Facilitates collaborations and partnerships between government, community organizations, and private sector entities. Coordinates cooperative projects, networks with stakeholders, mobilizes resources, develops policies, and supports capacity-building efforts.",
+                          [
+                              [
+                                  "i"
+                              ]
+                          ]
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "23eb2d5f-bfe5-4a47-a671-5634a12dec2f",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497388,
+              "last_edited_time": 1696708497388,
+              "parent_id": "6461749a-8f03-424e-9064-5b4355ebd80b",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "23eb2d5f-bfe5-4a47-a671-5634a12dec2f",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "9b3896e0-10f6-4c36-9b99-39c1edb1ae5a": {
+          "value": {
+              "id": "9b3896e0-10f6-4c36-9b99-39c1edb1ae5a",
+              "version": 1,
+              "type": "sub_sub_header",
+              "properties": {
+                  "title": [
+                      [
+                          "UI/UX Designer"
+                      ]
+                  ]
+              },
+              "content": [
+                  "1080bebc-da33-4666-8f74-3fe17eb3b7a4",
+                  "3c647ba7-e05a-4676-98ab-757543deb98b",
+                  "24b3c35e-2bb6-4801-a274-33c6eb2c080a",
+                  "e4b2eddd-9135-45eb-bc96-b1e109cfdc45",
+                  "f50fb78a-dc09-4d59-9424-bf124a1665b4",
+                  "b1c641f1-8ab8-4097-86a6-254d5074e99e",
+                  "61e7d0b2-b368-4407-808b-da8d8154d38e",
+                  "68134f40-101c-4387-a92b-452251285a2a",
+                  "c5d6ea83-adc7-43d1-ba13-b5abeff98c66",
+                  "33ea71fb-603a-422d-b4eb-698f82c796d6"
+              ],
+              "format": {
+                  "toggleable": true,
+                  "copied_from_pointer": {
+                      "id": "fb396803-7b11-436d-8dc5-d797b6c2c602",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497388,
+              "last_edited_time": 1696708497388,
+              "parent_id": "6461749a-8f03-424e-9064-5b4355ebd80b",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "fb396803-7b11-436d-8dc5-d797b6c2c602",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "d77423a7-f31c-4769-ba57-0a1d60a77876": {
+          "value": {
+              "id": "d77423a7-f31c-4769-ba57-0a1d60a77876",
+              "version": 1,
+              "type": "divider",
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "e9b1e9b0-572d-4165-a46d-6896ab7df4b9",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497389,
+              "last_edited_time": 1696708497389,
+              "parent_id": "46de7d98-c636-43d8-b4fe-7154b2a9521d",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "e9b1e9b0-572d-4165-a46d-6896ab7df4b9",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "263fa036-ba65-40ec-9b4c-685e0792b390": {
+          "value": {
+              "id": "263fa036-ba65-40ec-9b4c-685e0792b390",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "Project-Based Intern · UI/UX Designer · Remote",
+                          [
+                              [
+                                  "b"
+                              ]
+                          ]
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "479e6e0c-165d-4d1f-89c6-bae04e3ee674",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497389,
+              "last_edited_time": 1696708497389,
+              "parent_id": "46de7d98-c636-43d8-b4fe-7154b2a9521d",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "479e6e0c-165d-4d1f-89c6-bae04e3ee674",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "4f916d44-660c-4a20-8356-4e86dad8fc18": {
+          "value": {
+              "id": "4f916d44-660c-4a20-8356-4e86dad8fc18",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "Niagahoster is a web-hosting company based in Indonesia. It provides a range of web hosting services, including shared hosting, cloud hosting, WordPress hosting, and VPS hosting. Niagahoster offers various features and resources to help individuals and businesses establish and maintain their online presence.",
+                          [
+                              [
+                                  "i"
+                              ]
+                          ]
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "8c936509-1f71-4537-8f69-8b4c692032d8",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497389,
+              "last_edited_time": 1696708497389,
+              "parent_id": "46de7d98-c636-43d8-b4fe-7154b2a9521d",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "8c936509-1f71-4537-8f69-8b4c692032d8",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "dd79ba0f-94be-4afb-a9ab-044dfbb608a7": {
+          "value": {
+              "id": "dd79ba0f-94be-4afb-a9ab-044dfbb608a7",
+              "version": 1,
+              "type": "sub_sub_header",
+              "properties": {
+                  "title": [
+                      [
+                          "UI/UX Designer"
+                      ]
+                  ]
+              },
+              "content": [
+                  "b994fc17-d79c-42fe-a3b1-f1b66ae2dee7",
+                  "98c97a19-b2d7-4ce7-b897-4734f129140c",
+                  "c683be94-aaf1-47e7-85db-3c2db3f69c02",
+                  "8ad83a28-c6a2-4fe2-888f-6fa175ad502f",
+                  "a709f3ed-eddd-41df-bcf8-6d3b8f00926a"
+              ],
+              "format": {
+                  "toggleable": true,
+                  "copied_from_pointer": {
+                      "id": "d56a294f-6a67-451b-b2b5-dbc544ef3720",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497389,
+              "last_edited_time": 1696708497389,
+              "parent_id": "46de7d98-c636-43d8-b4fe-7154b2a9521d",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "d56a294f-6a67-451b-b2b5-dbc544ef3720",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "c0644cb4-59ea-4e70-98b6-d43d27cd97e4": {
+          "value": {
+              "id": "c0644cb4-59ea-4e70-98b6-d43d27cd97e4",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "I am honored to have received the award for Most Progressive Student in UI/UX 6 at Binar Academy's Campus Merdeka, Batch 2. Out of a cohort of 2,000 students, I was chosen as one of the top 100 students and given the opportunity to represent my classmates. This recognition is a testament to my dedication to learning and improving my skills in UI/UX design, and I am grateful for the support and guidance of my mentors and peers.",
+                          [
+                              [
+                                  "i"
+                              ]
+                          ]
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "c0039729-428d-4971-bea3-a4bffda3a3a4",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497390,
+              "last_edited_time": 1696708497390,
+              "parent_id": "5d16e52b-f76b-4984-8a46-391452a76e55",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "c0039729-428d-4971-bea3-a4bffda3a3a4",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "97d44bda-f979-41e2-b1eb-d0c9c8d15ea0": {
+          "value": {
+              "id": "97d44bda-f979-41e2-b1eb-d0c9c8d15ea0",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "I am proud to announce that my team, Akarui, placed second in the TechnoFest UI/UX competition hosted by Sriwijaya University. The competition theme was to create an application for ride-hailing, and our team developed Trive, a user-friendly and innovative app for on-demand transportation that is particularly convenient for students and travelers. I am grateful for the opportunity to showcase my skills as a UI/UX designer and am excited to continue learning and growing in this field.",
+                          [
+                              [
+                                  "i"
+                              ]
+                          ]
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "f33dfc43-fbc0-4b3f-95fc-fb8269b34211",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497390,
+              "last_edited_time": 1696708497390,
+              "parent_id": "09da2e75-7651-4088-bbaa-7596af311473",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "f33dfc43-fbc0-4b3f-95fc-fb8269b34211",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "39378c5b-6eca-4899-aac2-4dc95186a520": {
+          "value": {
+              "id": "39378c5b-6eca-4899-aac2-4dc95186a520",
+              "version": 1,
+              "type": "divider",
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "02a7f5f8-c762-4f11-b8b2-859ba2abd3ba",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497383,
+              "last_edited_time": 1696708497383,
+              "parent_id": "ace57932-5fc7-47b2-9864-3fc1f6affb13",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "02a7f5f8-c762-4f11-b8b2-859ba2abd3ba",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "52a7ad0c-3be2-4fbf-86f1-5203fa58e9f7": {
+          "value": {
+              "id": "52a7ad0c-3be2-4fbf-86f1-5203fa58e9f7",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "Feb 2021 - Jun 2022 "
+                      ],
+                      [
+                          "· ",
+                          [
+                              [
+                                  "b"
+                              ],
+                              [
+                                  "b"
+                              ]
+                          ]
+                      ],
+                      [
+                          "GitHub Student Developer"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "025d0db6-b34c-4fb8-a2a2-e8251f431d0e",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497383,
+              "last_edited_time": 1696708497383,
+              "parent_id": "ace57932-5fc7-47b2-9864-3fc1f6affb13",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "025d0db6-b34c-4fb8-a2a2-e8251f431d0e",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "1cb27b7a-2afa-46c9-a682-b6f437d1b4c8": {
+          "value": {
+              "id": "1cb27b7a-2afa-46c9-a682-b6f437d1b4c8",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "On GitHub Global Campus, I am actively trying to contribute to the community by learning alongside the global developer community, experimenting with various tools, and "
+                      ],
+                      [
+                          "then",
+                          [
+                              [
+                                  "b"
+                              ]
+                          ]
+                      ],
+                      [
+                          " implementing them in respective projects."
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "8c90a589-0209-4ecf-9504-cdd4b5383862",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497383,
+              "last_edited_time": 1696708497383,
+              "parent_id": "ace57932-5fc7-47b2-9864-3fc1f6affb13",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "8c90a589-0209-4ecf-9504-cdd4b5383862",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "d4d8478f-5aac-4ff0-a2a8-8121f3ebb16c": {
+          "value": {
+              "id": "d4d8478f-5aac-4ff0-a2a8-8121f3ebb16c",
+              "version": 1,
+              "type": "divider",
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "094c95b2-728c-4f3e-837d-d1440cdaa5fb",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497384,
+              "last_edited_time": 1696708497384,
+              "parent_id": "ed857d1a-c887-4b05-982b-ba2aeccde345",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "094c95b2-728c-4f3e-837d-d1440cdaa5fb",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "4ab64659-1f2a-4fe2-b94b-5a41a08840e8": {
+          "value": {
+              "id": "4ab64659-1f2a-4fe2-b94b-5a41a08840e8",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "Sep 2015 - Sep 2016 "
+                      ],
+                      [
+                          "· ",
+                          [
+                              [
+                                  "b"
+                              ],
+                              [
+                                  "b"
+                              ]
+                          ]
+                      ],
+                      [
+                          "Provost"
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "032db8ac-539e-45c0-ab3e-be8876c8da88",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497384,
+              "last_edited_time": 1696708497384,
+              "parent_id": "ed857d1a-c887-4b05-982b-ba2aeccde345",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "032db8ac-539e-45c0-ab3e-be8876c8da88",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "01649576-ce6b-49eb-9a89-5ed79fcc6b02": {
+          "value": {
+              "id": "01649576-ce6b-49eb-9a89-5ed79fcc6b02",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "As a member of the Student Police Organization at my school, I am committed to enforcing school rules and regulations to create a safe and orderly learning environment for my peers. I participate in regular drill and physical training sessions that follow a semi-military structure, including adherence to the proper formation and marching "
+                      ],
+                      [
+                          "protocols",
+                          [
+                              [
+                                  "b"
+                              ]
+                          ]
+                      ],
+                      [
+                          ". This experience has allowed me to develop discipline, teamwork, and leadership skills. I am proud to be a part of this organization and to contribute to the well-being of my school community."
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "091c380f-5db9-48bd-a7a1-77fb5ddfc2a9",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497384,
+              "last_edited_time": 1696708497384,
+              "parent_id": "ed857d1a-c887-4b05-982b-ba2aeccde345",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "091c380f-5db9-48bd-a7a1-77fb5ddfc2a9",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "1080bebc-da33-4666-8f74-3fe17eb3b7a4": {
+          "value": {
+              "id": "1080bebc-da33-4666-8f74-3fe17eb3b7a4",
+              "version": 1,
+              "type": "divider",
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "c85e286f-96d4-4ab8-9afe-5a2ae5770ea6",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497390,
+              "last_edited_time": 1696708497390,
+              "parent_id": "9b3896e0-10f6-4c36-9b99-39c1edb1ae5a",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "c85e286f-96d4-4ab8-9afe-5a2ae5770ea6",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "3c647ba7-e05a-4676-98ab-757543deb98b": {
+          "value": {
+              "id": "3c647ba7-e05a-4676-98ab-757543deb98b",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "Aug 2022 - Feb 2023",
+                          [
+                              [
+                                  "h",
+                                  "gray"
+                              ]
+                          ]
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "24819c32-64d3-47cf-9d72-7bd020a70a7c",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497390,
+              "last_edited_time": 1696708497390,
+              "parent_id": "9b3896e0-10f6-4c36-9b99-39c1edb1ae5a",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "24819c32-64d3-47cf-9d72-7bd020a70a7c",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "24b3c35e-2bb6-4801-a274-33c6eb2c080a": {
+          "value": {
+              "id": "24b3c35e-2bb6-4801-a274-33c6eb2c080a",
+              "version": 1,
+              "type": "bulleted_list",
+              "properties": {
+                  "title": [
+                      [
+                          "Implemented UI/UX in the scope of government operations."
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "a389cc39-59b7-4e32-b673-d9bf4797197c",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497390,
+              "last_edited_time": 1696708497390,
+              "parent_id": "9b3896e0-10f6-4c36-9b99-39c1edb1ae5a",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "a389cc39-59b7-4e32-b673-d9bf4797197c",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "e4b2eddd-9135-45eb-bc96-b1e109cfdc45": {
+          "value": {
+              "id": "e4b2eddd-9135-45eb-bc96-b1e109cfdc45",
+              "version": 1,
+              "type": "bulleted_list",
+              "properties": {
+                  "title": [
+                      [
+                          "Redesigned websites using UX principles."
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "61c172f1-e6e3-4df6-ba08-69945fe9b1f9",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497390,
+              "last_edited_time": 1696708497390,
+              "parent_id": "9b3896e0-10f6-4c36-9b99-39c1edb1ae5a",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "61c172f1-e6e3-4df6-ba08-69945fe9b1f9",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "f50fb78a-dc09-4d59-9424-bf124a1665b4": {
+          "value": {
+              "id": "f50fb78a-dc09-4d59-9424-bf124a1665b4",
+              "version": 1,
+              "type": "bulleted_list",
+              "properties": {
+                  "title": [
+                      [
+                          "Collaborated with cross-functional teams to implement projects."
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "3f51e8be-bc53-430a-936e-4ac9737dc9e5",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497390,
+              "last_edited_time": 1696708497390,
+              "parent_id": "9b3896e0-10f6-4c36-9b99-39c1edb1ae5a",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "3f51e8be-bc53-430a-936e-4ac9737dc9e5",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "b1c641f1-8ab8-4097-86a6-254d5074e99e": {
+          "value": {
+              "id": "b1c641f1-8ab8-4097-86a6-254d5074e99e",
+              "version": 1,
+              "type": "bulleted_list",
+              "properties": {
+                  "title": [
+                      [
+                          "Designed more efficient and effective features."
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "864fc934-97ea-424e-b621-3e17ce8c1b79",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497390,
+              "last_edited_time": 1696708497390,
+              "parent_id": "9b3896e0-10f6-4c36-9b99-39c1edb1ae5a",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "864fc934-97ea-424e-b621-3e17ce8c1b79",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "61e7d0b2-b368-4407-808b-da8d8154d38e": {
+          "value": {
+              "id": "61e7d0b2-b368-4407-808b-da8d8154d38e",
+              "version": 1,
+              "type": "bulleted_list",
+              "properties": {
+                  "title": [
+                      [
+                          "Communicated with stakeholders to ensure solutions aligned with their needs."
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "e8e8dd37-ba18-47ef-bb58-64c7d7ac36a8",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497390,
+              "last_edited_time": 1696708497390,
+              "parent_id": "9b3896e0-10f6-4c36-9b99-39c1edb1ae5a",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "e8e8dd37-ba18-47ef-bb58-64c7d7ac36a8",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "68134f40-101c-4387-a92b-452251285a2a": {
+          "value": {
+              "id": "68134f40-101c-4387-a92b-452251285a2a",
+              "version": 1,
+              "type": "bulleted_list",
+              "properties": {
+                  "title": [
+                      [
+                          "Highlighted the government institution's brand through UI website design."
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "d0dd407d-f279-4139-a634-14e075d0166d",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497390,
+              "last_edited_time": 1696708497390,
+              "parent_id": "9b3896e0-10f6-4c36-9b99-39c1edb1ae5a",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "d0dd407d-f279-4139-a634-14e075d0166d",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "c5d6ea83-adc7-43d1-ba13-b5abeff98c66": {
+          "value": {
+              "id": "c5d6ea83-adc7-43d1-ba13-b5abeff98c66",
+              "version": 1,
+              "type": "bulleted_list",
+              "properties": {
+                  "title": [
+                      [
+                          "Conducted end-to-end UX research based on the design process."
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "b31eb582-a641-4bc9-b2be-a31f968036d3",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497390,
+              "last_edited_time": 1696708497390,
+              "parent_id": "9b3896e0-10f6-4c36-9b99-39c1edb1ae5a",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "b31eb582-a641-4bc9-b2be-a31f968036d3",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "33ea71fb-603a-422d-b4eb-698f82c796d6": {
+          "value": {
+              "id": "33ea71fb-603a-422d-b4eb-698f82c796d6",
+              "version": 1,
+              "type": "bulleted_list",
+              "properties": {
+                  "title": [
+                      [
+                          "Implemented UI/UX projects in the form of a thesis."
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "fcb74daf-1f64-46d5-b5cf-8f56f6c299fa",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497390,
+              "last_edited_time": 1696708497390,
+              "parent_id": "9b3896e0-10f6-4c36-9b99-39c1edb1ae5a",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "fcb74daf-1f64-46d5-b5cf-8f56f6c299fa",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "b994fc17-d79c-42fe-a3b1-f1b66ae2dee7": {
+          "value": {
+              "id": "b994fc17-d79c-42fe-a3b1-f1b66ae2dee7",
+              "version": 1,
+              "type": "divider",
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "ba0c10ef-46bf-4fd3-86b2-000b218d2c05",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497390,
+              "last_edited_time": 1696708497390,
+              "parent_id": "dd79ba0f-94be-4afb-a9ab-044dfbb608a7",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "ba0c10ef-46bf-4fd3-86b2-000b218d2c05",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "98c97a19-b2d7-4ce7-b897-4734f129140c": {
+          "value": {
+              "id": "98c97a19-b2d7-4ce7-b897-4734f129140c",
+              "version": 1,
+              "type": "text",
+              "properties": {
+                  "title": [
+                      [
+                          "Aug 2022 - Sep 2023",
+                          [
+                              [
+                                  "h",
+                                  "gray"
+                              ]
+                          ]
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "868d916b-7a5e-475c-b9d2-d3a807adaeca",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497390,
+              "last_edited_time": 1696708497390,
+              "parent_id": "dd79ba0f-94be-4afb-a9ab-044dfbb608a7",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "868d916b-7a5e-475c-b9d2-d3a807adaeca",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "c683be94-aaf1-47e7-85db-3c2db3f69c02": {
+          "value": {
+              "id": "c683be94-aaf1-47e7-85db-3c2db3f69c02",
+              "version": 1,
+              "type": "bulleted_list",
+              "properties": {
+                  "title": [
+                      [
+                          "Completed quizzes and theory from UI/UX mentors."
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "d8c3d58d-a2b4-4364-9503-7f389834c021",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497390,
+              "last_edited_time": 1696708497390,
+              "parent_id": "dd79ba0f-94be-4afb-a9ab-044dfbb608a7",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "d8c3d58d-a2b4-4364-9503-7f389834c021",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "8ad83a28-c6a2-4fe2-888f-6fa175ad502f": {
+          "value": {
+              "id": "8ad83a28-c6a2-4fe2-888f-6fa175ad502f",
+              "version": 1,
+              "type": "bulleted_list",
+              "properties": {
+                  "title": [
+                      [
+                          "Created solutions for existing issues on the Niagahoster website."
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "0994c4c4-9fba-473b-b944-58abebe46e00",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497390,
+              "last_edited_time": 1696708497390,
+              "parent_id": "dd79ba0f-94be-4afb-a9ab-044dfbb608a7",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "0994c4c4-9fba-473b-b944-58abebe46e00",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      },
+      "a709f3ed-eddd-41df-bcf8-6d3b8f00926a": {
+          "value": {
+              "id": "a709f3ed-eddd-41df-bcf8-6d3b8f00926a",
+              "version": 1,
+              "type": "bulleted_list",
+              "properties": {
+                  "title": [
+                      [
+                          "Applied design principles in decision-making for problem-solving."
+                      ]
+                  ]
+              },
+              "format": {
+                  "copied_from_pointer": {
+                      "id": "17448f8a-ed82-45db-82fb-b0f843a7656d",
+                      "table": "block",
+                      "spaceId": "902788a2-0644-4e33-9881-ac29e329a9cd"
+                  }
+              },
+              "created_time": 1696708497390,
+              "last_edited_time": 1696708497390,
+              "parent_id": "dd79ba0f-94be-4afb-a9ab-044dfbb608a7",
+              "parent_table": "block",
+              "alive": true,
+              "copied_from": "17448f8a-ed82-45db-82fb-b0f843a7656d",
+              "created_by_table": "notion_user",
+              "created_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "last_edited_by_table": "notion_user",
+              "last_edited_by_id": "3369f76a-66ad-43cc-abf9-ddbb0089192b",
+              "space_id": "97a5874d-9b21-4b11-ac34-7ea1453011c5"
+          },
+          "role": "reader"
+      }
+  },
+  "space": {},
+  "collection": {},
+  "collection_view": {},
+  "notion_user": {},
+  "collection_query": {},
+  "signed_urls": {}
+}
